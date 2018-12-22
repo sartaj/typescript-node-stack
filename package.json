@@ -1,3 +1,4 @@
 {
-  "name": "@sartaj/typescript-node-stack"
+  "name": "typescript-node-stack",
+  "version": "1.0.0"
 }
