@@ -8,8 +8,5 @@
   "exclude": [
     "**/*.d.ts"
   ],
-  "reporter": [
-    "html"
-  ],
   "all": true
 }
