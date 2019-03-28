@@ -2,7 +2,7 @@
   "compilerOptions": {
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": "./source",
+    "baseUrl": "./",
     "declaration": true,
     // "lib": ["es5"],
     "module": "CommonJS",
@@ -26,6 +26,7 @@
   },
   "compileOnSave": true,
   "exclude": [
+    "library",
     "**/*.spec.ts",
     "android",
     "build",
@@ -35,6 +36,6 @@
     "node_modules",
     "test"
   ],
-  "include": ["./source/**/*"],
+  "include": ["./**/*"],
   "types": ["node", "./source/types"]
 }

@@ -6,10 +6,8 @@
     ".ts"
   ],
   "exclude": [
-    "**/*.d.ts"
-  ],
-  "reporter": [
-    "html"
+    "**/*.d.ts",
+    "**/library/**"
   ],
   "all": true
 }
