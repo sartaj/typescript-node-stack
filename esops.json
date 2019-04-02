@@ -1,1 +1,9 @@
-["github:sartaj/typescript-node-stack#master", "./infrastructure-ts-fp"]
+[
+  ["github:sartaj/typescript-node-stack#master"],
+  ["./infrastructure-ts-fp", {}, {
+    "canMergeJson": [
+      "./package.json"
+    ]
+  }]
+]
+
