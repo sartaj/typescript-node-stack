@@ -8,3 +8,6 @@ tsconfig.json#include
 .prettierrc
 .nycrc
 .node-dev.json
+
+./.vscode/extensions.json"
+./.vscode/settings.json
