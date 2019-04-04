@@ -1,0 +1,10 @@
+package.json
+
+tsconfig.json
+tsconfig.json#compilerOptions.typeRoots
+tsconfig.json#exclude
+tsconfig.json#include
+
+.prettierrc
+.nycrc
+.node-dev.json
