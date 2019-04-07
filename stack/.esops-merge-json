@@ -1,13 +1,7 @@
 package.json
-
 tsconfig.json
-tsconfig.json#compilerOptions.typeRoots
-tsconfig.json#exclude
-tsconfig.json#include
-
 .prettierrc
 .nycrc
 .node-dev.json
-
-./.vscode/extensions.json
-./.vscode/settings.json
+.vscode/extensions.json
+.vscode/settings.json
